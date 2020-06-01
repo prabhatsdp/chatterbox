@@ -1,0 +1,21 @@
+.message-wrap {
+    margin-top: 48px;
+}
+
+.input-box,
+.submit-btn {
+    margin-top: 16px;
+}
+
+.message-item {
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.time {
+    margin: 0;
+}
+
+.empty {
+    border-color: red;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "chatterbox",
+  "version": "1.0.0",
+  "description": "A real time chat web application using Node.js, Express.js and Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "nodemon server.js"
+  },
+  "author": "Prabhat Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.16",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.5.0",
+    "jasmine": "^3.5.0",
+    "request": "^2.88.2"
+  }
+}
